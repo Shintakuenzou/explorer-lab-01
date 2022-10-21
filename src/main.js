@@ -2,7 +2,6 @@ import "./css/index.css";
 
 import IMAsk from 'imask';
 
-
 const bgColor01 = document.querySelector('.cc-bg svg > g g:nth-child(1) path');
 const bgColor02 = document.querySelector('.cc-bg svg > g g:nth-child(2) path ');
 
