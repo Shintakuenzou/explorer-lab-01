@@ -21,7 +21,7 @@ function setCardType(type) {
 }
 
 
-// security-code
+
 const CVC = document.querySelector('#security-code');
 const CvcCodigoPattern = {
     mask: '0000',
